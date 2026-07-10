@@ -47,7 +47,6 @@ const kurtangelo = {
 
 <div align="center">
 
-<img height="180em" src="https://github-stats-extended.vercel.app/api?username=Ceyju&show_icons=true&theme=nord&hide_border=true&count_private=true" alt="GitHub stats" />
 <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Ceyju&layout=compact&theme=nord&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
