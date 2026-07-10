@@ -1,16 +1,16 @@
-# Hi there, I'm Kurt Angelo 👋
+# Hi there, I'm Kurt Angelo
 
 ### Full-Stack Developer
 
 ---
 
-### 🧑‍💻 About Me
+### About Me
 
 ```javascript
 const kurtangelo = {
   role: "Full-Stack Developer",
   goal: "Software Engineer",
-  location: "Earth 🌍",
+  location: "Earth",
   learning: ["API integration and generative AI"],
   currentProject: "A lot of Health-Related Systems"
 };
@@ -43,7 +43,7 @@ const kurtangelo = {
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
 
@@ -60,7 +60,7 @@ const kurtangelo = {
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <div align="center">
 
@@ -95,7 +95,7 @@ const kurtangelo = {
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 
 <div align="center">
 
